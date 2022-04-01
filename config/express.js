@@ -12,5 +12,7 @@ module.exports = () => {
         res.send('Hello World!');
     })
 
+    require("../src/Board/boardRoute")(app);
+    
     return app;
 }
