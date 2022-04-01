@@ -1,0 +1,22 @@
+{
+  "name": "ajou-beginner-project1-server",
+  "version": "1.0.0",
+  "description": "2022 Do-IT Study Project1 API Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crakel/AJOU-BEGINNER-Project1-Server.git"
+  },
+  "author": "GY KIM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crakel/AJOU-BEGINNER-Project1-Server/issues"
+  },
+  "homepage": "https://github.com/crakel/AJOU-BEGINNER-Project1-Server#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
